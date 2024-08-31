@@ -1,0 +1,7 @@
+[WebGPU for Beginners - Video](https://www.youtube.com/watch?v=UBqme9A_O3c&list=PLn3eTxaOtL2Ns3wkxdyS3CiqkJuwQdZzn)
+[WebGPU Game Dev - Video](https://www.youtube.com/watch?v=j4jtjk_1wcQ&list=PLCnmpqh8sKKynYSJqrrC0nWwPB3OVf5lt)
+[WebGPU Samples](https://webgpu.github.io/webgpu-samples/?sample=helloTriangleMSAA)
+[WebGPU Fundamentals](https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html)
+[Learn WebGPU - Video](https://www.youtube.com/watch?v=p3qR_wGhVus&list=PLVHfUzm5DIVCZxjmaZsBXEXoohzSqeCnV&index=3)
+[Skeletal animation in glTF](https://lisyarus.github.io/blog/posts/gltf-animation.html)
+[gltf on webgpu](https://github.com/Twinklebear/webgpu-0-to-gltf)

@@ -11,14 +11,11 @@
     </style>
 </head>
 <body>
-    <canvas id="canvas"></canvas>
-
     <script src="a.out.js"></script>
     <script>
-      Module.onRuntimeInitialized = _ => {
-        const canvas = document.getElementById('canvas');
-        Module.canvas = canvas;
-      };
+      function functionInJS(params) {
+        console.log(params);
+      }
     </script>
 </body>
 </html>
